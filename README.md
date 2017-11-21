@@ -1,3 +1,3 @@
 # Hello-world
-"how can I get enough money/n";
+"how can I get enough money\n";
 "money!!!!!!ooooooo!!!!!!";
